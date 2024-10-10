@@ -1,5 +1,5 @@
 title: Samiullah's Portfolio
-show_downloads: False
+show_downloads: "true"
 description: I'm an AI Developer with expertise in machine learning and back-end development, focused on creating scalable, AI-driven solutions. I specialize in NLP, neural networks, and fine-tuning models, with experience deploying advanced systems using GPT models and vector databases. My passion lies in integrating cutting-edge AI with robust back-end systems to solve complex problems and drive innovation.
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
@@ -8,7 +8,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-assets
+resume_link: "https://drive.google.com/file/d/10_-45rSRiBK7czi_yaQ3VymlU2g5XnKw/view?usp=sharing"
 
-# Add a link to your resume for download
-resume:
-  file_name: "Samiullah_Resume.pdf"
