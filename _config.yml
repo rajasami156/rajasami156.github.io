@@ -8,5 +8,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-assets
-resume_link: "https://drive.google.com/file/d/10_-45rSRiBK7czi_yaQ3VymlU2g5XnKw/view?usp=sharing"
+resume_link: "/assets/resume/Samiullah_Resume.pdf"
+
 
