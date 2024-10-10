@@ -23,6 +23,11 @@ Feel free to explore my work and projects to see how I apply machine learning to
 - 🌱 **Projects:** My work spans from building chatbots using **GPT models** to deploying scalable cloud solutions, with a special focus on using **AWS** for CI/CD pipelines.
 - 📝 **Blog:** I share my thoughts on AI and development on [Medium](https://medium.com/@nicesami156).
 
+- ## Download My Resume
+
+If you're interested in viewing my resume, you can check it out here:
+[**View My Resume**](https://drive.google.com/file/d/10_-45rSRiBK7czi_yaQ3VymlU2g5XnKw/view?usp=sharing)
+
 ## Featured Projects
 
 ### [Herbal Advisor](https://myherbaladvisor.com/)
