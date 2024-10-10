@@ -1,5 +1,5 @@
 title: Samiullah's Portfolio
-show_downloads: "true"
+show_downloads: "false"
 description: I'm an AI Developer with expertise in machine learning and back-end development, focused on creating scalable, AI-driven solutions. I specialize in NLP, neural networks, and fine-tuning models, with experience deploying advanced systems using GPT models and vector databases. My passion lies in integrating cutting-edge AI with robust back-end systems to solve complex problems and drive innovation.
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
