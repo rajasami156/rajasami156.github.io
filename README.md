@@ -1,4 +1,4 @@
-# Sami Ullah's Portfolio
+# Samiullah's Portfolio
 
 Welcome to my portfolio! I'm Sami Ullah, an **AI Developer** and **Machine Learning Engineer** with expertise in designing back-end systems, developing machine learning models, and deploying AI solutions on various cloud platforms. I specialize in **chatbots**, **recommendation systems**, and **RESTful APIs**, and have experience with a wide range of machine learning technologies and tools.
 
